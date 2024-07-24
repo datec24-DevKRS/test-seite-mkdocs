@@ -1,0 +1,5 @@
+site_name: My test-seite-mkdocs
+theme:
+  name: material
+  palette:
+    accent: indigo
